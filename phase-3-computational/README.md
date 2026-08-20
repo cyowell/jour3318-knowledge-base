@@ -16,12 +16,20 @@ Phase 3 scales journalistic inquiry through programmatic automation. Moving beyo
 
 ---
 
-## How to Contribute
+## 🛠️ How to Contribute Your Discovery
 
-Submit Python scripts, scraping workflows, data cleaning recipes, or forensic automation tools:
+> ⚠️ **Reading this on GitBook?**  
+> **GitBook is read-only.** You cannot upload Python scripts or create files directly on this website.  
+> To submit your scraper or tutorial, you must **switch to GitHub**:
+> 
+> 🔗 **[Open the JOUR 3318 GitHub Repository to Contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
 
-1. Create your documentation or script:
-   - Documentation: `phase-3-computational/[workflow-name]-[your-name].md`
-   - Python scripts: `phase-3-computational/scripts/[script-name].py`
-2. Ensure your Python code is commented, PEP-8 compliant, and excludes hardcoded API keys or private tokens.
-3. Follow the [Contribution Template](../README.md#contribution-template) and open a Pull Request.
+### Step-by-Step Contribution Steps:
+
+1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
+3. **Create Your File:** 
+   - For Markdown Guides: `phase-3-computational/[workflow-name]-[your-name].md`
+   - For Python Scripts: `phase-3-computational/scripts/[script-name].py`
+4. **Follow the Template:** Fill out the [Contribution Template](https://github.com/cyowell/jour3318-knowledge-base#contribution-template). Ensure scripts are commented and contain no private API keys.
+5. **Submit a Pull Request:** Open a Pull Request targeting `main`.

@@ -4,7 +4,17 @@
 
 **Course:** JOUR 3318 — Digital Investigative Techniques  
 **Focus:** Open-Source Intelligence (OSINT), Computational Journalism & AI Verification  
-**GitBook Hub:** [digitalinvestigations.gitbook.io/digitalinvestigations-docs](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs)
+**GitBook Hub:** [digitalinvestigations.gitbook.io/digitalinvestigations-docs](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs)  
+**GitHub Repository:** [github.com/cyowell/jour3318-knowledge-base](https://github.com/cyowell/jour3318-knowledge-base)
+
+---
+
+> ⚠️ **Important Reminder for Students:**  
+> - **GitBook** is your **reading hub** (read-only reference).
+> - **GitHub** is your **contribution layer** (where you create files, submit work, and open Pull Requests).
+> 
+> Whenever instructions ask you to create a file or open a PR, **you must do so on GitHub**:  
+> 🔗 **[Click here to go to GitHub and contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
 
 ---
 
@@ -12,7 +22,7 @@
 
 This is the living, community-driven knowledge base for **JOUR 3318: Digital Investigative Techniques**. Built **by students, for students**, it serves as an open archive of verified OSINT methodologies, Python data-scraping workflows, forensic verification protocols, and critical AI prompt logs discovered throughout the semester.
 
-Approved student contributions submitted via Pull Requests are merged here and automatically synchronized with the course GitBook reference hub.
+Approved student contributions submitted via Pull Requests are merged on GitHub and automatically synchronized with this GitBook reference hub.
 
 ---
 
@@ -39,9 +49,9 @@ Student discovers technique / completes lab
                    ↓
 Documents findings in personal GitHub workbench repo
                    ↓
-Forks jour3318-knowledge-base & creates new .md file
+Goes to GitHub → Forks jour3318-knowledge-base & creates new .md file
                    ↓
-Submits Pull Request with completed Verification Checklist
+Submits Pull Request on GitHub with completed Verification Checklist
                    ↓
 Instructor / Peer Review & Editorial Revision
                    ↓
@@ -52,20 +62,21 @@ Permanent attribution in Git commit history
 
 ### Step-by-Step Submission Guide
 
-1. **Fork This Repository:** Click the **Fork** button in the top right of this repository to create your own working copy.
-2. **Create Your Contribution File:** Navigate to the relevant phase directory (e.g., `phase-2-verification/`) and add a new markdown file named using kebab-case:
+1. **Open GitHub:** Go to the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+2. **Fork This Repository:** Click the **Fork** button in the top right corner to create your own working copy.
+3. **Create Your Contribution File:** Navigate to the relevant phase directory (e.g., `phase-2-verification/`) on GitHub and click **Add file** $\rightarrow$ **Create new file**:
    ```
    phase-2-verification/[technique-or-tool-name]-[your-name].md
    ```
-3. **Use the Contribution Template:** Populate your file using the structured [Contribution Template](#contribution-template) below.
-4. **Open a Pull Request:** Submit a Pull Request targeting the `main` branch. GitHub will automatically load the **Editorial Review Checklist**. Complete all applicable checkmarks.
-5. **Editorial Review:** The instructor will review your PR, request revisions if verification steps need strengthening, and merge approved submissions.
+4. **Use the Contribution Template:** Populate your file using the structured [Contribution Template](#contribution-template) below.
+5. **Open a Pull Request:** Submit a Pull Request targeting the `main` branch. GitHub will automatically load the **Editorial Review Checklist**. Complete all applicable checkmarks.
+6. **Editorial Review:** The instructor will review your PR, request revisions if verification steps need strengthening, and merge approved submissions.
 
 ---
 
 ## Contribution Template
 
-Copy and paste this markdown template into your submission file:
+Copy and paste this markdown template into your submission file on GitHub:
 
 ```markdown
 # [Title of Discovery or Methodology]

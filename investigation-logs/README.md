@@ -26,10 +26,15 @@ Original, multi-vector investigative packages addressing unmet public informatio
 
 ---
 
-## Log Entry Structure
+## 🛠️ How to Submit an Investigation Log
 
-All promoted logs must include:
-- **Investigative Hypothesis:** The claim or entity interrogated.
-- **Triangulation Matrix:** Table summarizing at least 2 independent verification vectors.
-- **Archival Chain of Custody:** Cryptographic hashes or permanent archive snapshots.
-- **Contributor Attribution:** Student name, term, and link to personal workbench repository.
+> ⚠️ **Reading this on GitBook?**  
+> **GitBook is read-only.** To publish an investigation log, you must submit it on GitHub:
+> 
+> 🔗 **[Open the JOUR 3318 GitHub Repository to Submit an Investigation →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+### Submission Steps:
+1. Document your complete case study in your personal workbench repository.
+2. Fork the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+3. Create your log file: `investigation-logs/[task-category]/[investigation-slug]-[your-name].md`.
+4. Open a Pull Request targeting `main` with all verification evidence and hashes included.

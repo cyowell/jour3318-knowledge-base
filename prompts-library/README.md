@@ -19,9 +19,22 @@ Every archived prompt exchange is tagged with an editorial outcome:
 
 ---
 
-## Contribution Format
+## 🛠️ How to Submit to the Prompt Library
 
-When submitting a prompt interaction to this library, use the following layout:
+> ⚠️ **Reading this on GitBook?**  
+> **GitBook is read-only.** To archive a prompt log, you must submit it on GitHub:
+> 
+> 🔗 **[Open the JOUR 3318 GitHub Repository to Submit a Prompt Log →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+### Submission Steps:
+1. Copy the prompt, raw model response, and your hallucination critique from your personal `PROMPTS.md`.
+2. Fork the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+3. Create your file: `prompts-library/[prompt-topic]-[your-name].md`.
+4. Fill out the layout below and open a Pull Request targeting `main`.
+
+---
+
+## Contribution Format
 
 ```markdown
 # [Prompt Title / Task Context]

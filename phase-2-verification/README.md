@@ -16,11 +16,21 @@ Phase 2 focuses on hands-on open-source intelligence (OSINT) and visual forensic
 
 ---
 
-## How to Contribute
+## 🛠️ How to Contribute Your Discovery
 
-Document verified OSINT workflows, tool evaluation comparisons, or step-by-step geolocation breakdowns:
+> ⚠️ **Reading this on GitBook?**  
+> **GitBook is read-only.** You cannot create files or edit pages directly on this website.  
+> To submit your OSINT technique, tool guide, or verification workflow, you must **switch to GitHub**:
+> 
+> 🔗 **[Open the JOUR 3318 GitHub Repository to Contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
 
-1. Create a new markdown file: `phase-2-verification/[technique-or-tool]-[your-name].md`
-2. Follow the repository [Contribution Template](../README.md#contribution-template).
-3. Ensure all evidence includes permanent archive links (Wayback Machine / Archive.today).
-4. Submit a Pull Request targeting `main`.
+### Step-by-Step Contribution Steps:
+
+1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
+3. **Create Your File:** Inside the `phase-2-verification/` folder, click **Add file** $\rightarrow$ **Create new file**:
+   ```
+   phase-2-verification/[tool-or-technique-name]-[your-name].md
+   ```
+4. **Follow the Template:** Copy and fill out the [Contribution Template](https://github.com/cyowell/jour3318-knowledge-base#contribution-template). Remember to link permanent archive snapshots (e.g., Wayback Machine or Archive.today).
+5. **Submit a Pull Request:** Open a Pull Request targeting `main`. Once approved, your methodology will be published live to GitBook with your contributor credit!

@@ -16,10 +16,21 @@ Phase 4 bridges advanced artificial intelligence systems with investigative repo
 
 ---
 
-## How to Contribute
+## 🛠️ How to Contribute Your Discovery
 
-Contribute AI workflow documentation, prompt architecture case studies, or Pinpoint investigation templates:
+> ⚠️ **Reading this on GitBook?**  
+> **GitBook is read-only.** You cannot submit prompt logs or create files directly on this website.  
+> To submit your AI workflow, prompt critique, or Pinpoint analysis, you must **switch to GitHub**:
+> 
+> 🔗 **[Open the JOUR 3318 GitHub Repository to Contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
 
-1. Create a markdown file: `phase-4-ai-integration/[ai-technique-or-tool]-[your-name].md`
-2. Follow the [Contribution Template](../README.md#contribution-template), ensuring you attach raw prompt-output logs.
-3. Submit a Pull Request targeting `main`.
+### Step-by-Step Contribution Steps:
+
+1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
+2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
+3. **Create Your File:** Inside `phase-4-ai-integration/`, click **Add file** $\rightarrow$ **Create new file**:
+   ```
+   phase-4-ai-integration/[ai-technique-or-tool]-[your-name].md
+   ```
+4. **Follow the Template:** Fill out the [Contribution Template](https://github.com/cyowell/jour3318-knowledge-base#contribution-template). Remember to attach raw input/output prompt logs and your critical evaluation.
+5. **Submit a Pull Request:** Open a Pull Request targeting `main`.

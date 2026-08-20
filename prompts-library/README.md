@@ -1,5 +1,13 @@
 # Gemini Gem & AI Prompt Library
 
+> [!IMPORTANT]
+> ### 🛑 Reading this on GitBook?
+> **GitBook is read-only.** You cannot upload prompt histories or edit files directly on this website.  
+> To document your AI interactions or submit a prompt critique, you must **switch to GitHub**:  
+> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+---
+
 ## Overview
 
 In accordance with the UbD blueprint's mandate for **methodological transparency and prompting logic oversight**, this library archives evaluated interactions between students and generative AI systems (including the custom course Gemini Gem, Google AI Studio, and large language models).
@@ -19,14 +27,8 @@ Every archived prompt exchange is tagged with an editorial outcome:
 
 ---
 
-## 🛠️ How to Submit to the Prompt Library
+## 🛠️ How to Submit to the Prompt Library on GitHub
 
-> ⚠️ **Reading this on GitBook?**  
-> **GitBook is read-only.** To archive a prompt log, you must submit it on GitHub:
-> 
-> 🔗 **[Open the JOUR 3318 GitHub Repository to Submit a Prompt Log →](https://github.com/cyowell/jour3318-knowledge-base)**
-
-### Submission Steps:
 1. Copy the prompt, raw model response, and your hallucination critique from your personal `PROMPTS.md`.
 2. Fork the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 3. Create your file: `prompts-library/[prompt-topic]-[your-name].md`.

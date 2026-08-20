@@ -1,5 +1,13 @@
 # Investigation Logs
 
+> [!IMPORTANT]
+> ### 🛑 Reading this on GitBook?
+> **GitBook is read-only.** You cannot upload case studies, edit evidence logs, or create files directly on this website.  
+> To document your investigations or submit a case study, you must **switch to GitHub**:  
+> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+---
+
 ## Overview
 
 The **Investigation Logs** directory houses promoted, verified investigative case studies produced by students. These entries represent the practical application of the course's authentic performance tasks, establishing a public, permanent repository of investigative reporting and forensic debunks.
@@ -26,14 +34,8 @@ Original, multi-vector investigative packages addressing unmet public informatio
 
 ---
 
-## 🛠️ How to Submit an Investigation Log
+## 🛠️ How to Submit an Investigation Log on GitHub
 
-> ⚠️ **Reading this on GitBook?**  
-> **GitBook is read-only.** To publish an investigation log, you must submit it on GitHub:
-> 
-> 🔗 **[Open the JOUR 3318 GitHub Repository to Submit an Investigation →](https://github.com/cyowell/jour3318-knowledge-base)**
-
-### Submission Steps:
 1. Document your complete case study in your personal workbench repository.
 2. Fork the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 3. Create your log file: `investigation-logs/[task-category]/[investigation-slug]-[your-name].md`.

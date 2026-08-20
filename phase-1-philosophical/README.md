@@ -1,5 +1,13 @@
 # Phase 1: Philosophical & Theoretical Anchor
 
+> [!IMPORTANT]
+> ### 🛑 Reading this on GitBook?
+> **GitBook is read-only.** You cannot edit pages, upload assignments, or create files directly on this website.  
+> To complete assignments, add investigation notes, or submit work, you must **switch to GitHub**:  
+> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+---
+
 ## Overview
 
 Phase 1 explores the epistemological foundations of truth, honesty, and digital communication in an era transformed by generative artificial intelligence. Moving beyond superficial mechanics, students critically interrogate how algorithmic persuasion and automated content shape human perception and democratic discourse.
@@ -18,19 +26,11 @@ Phase 1 explores the epistemological foundations of truth, honesty, and digital 
 
 ---
 
-## 🛠️ How to Contribute Your Discovery
-
-> ⚠️ **Reading this on GitBook?**  
-> **GitBook is read-only.** You cannot create files or edit pages directly on this website.  
-> To submit your contribution, you must **switch to GitHub**:
-> 
-> 🔗 **[Open the JOUR 3318 GitHub Repository to Contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
-
-### Step-by-Step Contribution Steps:
+## 🛠️ How to Contribute Your Discovery on GitHub
 
 1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
-3. **Create Your File:** Inside the `phase-1-philosophical/` folder, click **Add file** $\rightarrow$ **Create new file**:
+3. **Create Your File:** Inside the `phase-1-philosophical/` folder on GitHub, click **Add file** $\rightarrow$ **Create new file**:
    ```
    phase-1-philosophical/[topic-slug]-[your-name].md
    ```

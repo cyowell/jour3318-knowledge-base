@@ -1,5 +1,13 @@
 # Phase 2: The Discipline of Verification & OSINT Fundamentals
 
+> [!IMPORTANT]
+> ### 🛑 Reading this on GitBook?
+> **GitBook is read-only.** You cannot edit pages, upload assignments, or create files directly on this website.  
+> To complete assignments, add investigation notes, or submit work, you must **switch to GitHub**:  
+> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+
+---
+
 ## Overview
 
 Phase 2 focuses on hands-on open-source intelligence (OSINT) and visual forensic methodologies. Grounded in the discipline of verification, students acquire tools to interrogate digital assets, uncover temporal and spatial manipulations, and establish an unbroken chain of custody for digital evidence.
@@ -16,19 +24,11 @@ Phase 2 focuses on hands-on open-source intelligence (OSINT) and visual forensic
 
 ---
 
-## 🛠️ How to Contribute Your Discovery
-
-> ⚠️ **Reading this on GitBook?**  
-> **GitBook is read-only.** You cannot create files or edit pages directly on this website.  
-> To submit your OSINT technique, tool guide, or verification workflow, you must **switch to GitHub**:
-> 
-> 🔗 **[Open the JOUR 3318 GitHub Repository to Contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
-
-### Step-by-Step Contribution Steps:
+## 🛠️ How to Contribute Your Discovery on GitHub
 
 1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
-3. **Create Your File:** Inside the `phase-2-verification/` folder, click **Add file** $\rightarrow$ **Create new file**:
+3. **Create Your File:** Inside the `phase-2-verification/` folder on GitHub, click **Add file** $\rightarrow$ **Create new file**:
    ```
    phase-2-verification/[tool-or-technique-name]-[your-name].md
    ```

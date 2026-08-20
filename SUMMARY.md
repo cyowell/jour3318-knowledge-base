@@ -1,6 +1,7 @@
 # Summary
 
 * [Course Knowledge Base Overview](README.md)
+* [Student Onboarding Guide (Getting Started)](student-onboarding-guide.md)
 
 ## Phase 1: Philosophical & Theoretical Anchor
 * [Phase 1 Overview](phase-1-philosophical/README.md)

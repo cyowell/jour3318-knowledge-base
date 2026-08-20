@@ -2,6 +2,7 @@
 
 * [Course Knowledge Base Overview](README.md)
 * [Student Onboarding Guide (Getting Started)](student-onboarding-guide.md)
+* [Day 0 Lab: LinkedIn Job Vetting & Scam Forensics](investigation-logs/day-0-linkedin-job-vetting.md)
 
 ## Phase 1: Philosophical & Theoretical Anchor
 * [Phase 1 Overview](phase-1-philosophical/README.md)
@@ -17,6 +18,7 @@
 
 ## Investigative Case Studies
 * [Investigation Logs Index](investigation-logs/README.md)
+* [Day 0 Lab: LinkedIn Job Vetting](investigation-logs/day-0-linkedin-job-vetting.md)
 
 ## AI Interactions & Transparency
 * [Gemini Gem Prompt Library](prompts-library/README.md)

@@ -1,10 +1,10 @@
 # Phase 2: The Discipline of Verification & OSINT Fundamentals
 
 > [!IMPORTANT]
-> ### 🛑 Reading this on GitBook?
-> **GitBook is read-only.** You cannot edit pages, upload assignments, or create files directly on this website.  
+> **Reading this on GitBook?**  
+> GitBook is read-only. You cannot edit pages, upload assignments, or create files directly on this website.  
 > To complete assignments, add investigation notes, or submit work, you must **switch to GitHub**:  
-> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+> [Click here to open the JOUR 3318 GitHub Repository ->](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
@@ -24,13 +24,13 @@ Phase 2 focuses on hands-on open-source intelligence (OSINT) and visual forensic
 
 ---
 
-## 🛠️ How to Contribute Your Discovery on GitHub
+## How to Contribute Your Discovery on GitHub
 
 1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
-3. **Create Your File:** Inside the `phase-2-verification/` folder on GitHub, click **Add file** $\rightarrow$ **Create new file**:
+3. **Create Your File:** Inside the `phase-2-verification/` folder on GitHub, click **Add file** -> **Create new file**:
    ```
    phase-2-verification/[tool-or-technique-name]-[your-name].md
    ```
 4. **Follow the Template:** Copy and fill out the [Contribution Template](https://github.com/cyowell/jour3318-knowledge-base#contribution-template). Remember to link permanent archive snapshots (e.g., Wayback Machine or Archive.today).
-5. **Submit a Pull Request:** Open a Pull Request targeting `main`. Once approved, your methodology will be published live to GitBook with your contributor credit!
+5. **Submit a Pull Request:** Open a Pull Request targeting `main`. Once approved, your methodology will be published to the course GitBook with your contributor credit.

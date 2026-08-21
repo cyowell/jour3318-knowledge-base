@@ -1,4 +1,4 @@
-# 🕵️‍♂️ JOUR 3318: Investigative Workbench
+# JOUR 3318: Investigative Workbench
 
 **Student Name:** [Your Name]  
 **GitHub Username:** @[your-username]  
@@ -23,7 +23,7 @@ Here, you will:
 
 ---
 
-## 📁 Repository Layout
+## Repository Layout
 
 ```text
 ├── README.md               <- You are here (your profile and portfolio overview)
@@ -36,7 +36,7 @@ Here, you will:
 
 ---
 
-## 🔒 Verification & Archival Rules
+## Verification & Archival Rules
 
 - **Never rely on a single source:** Triangulate every factual assertion across at least 2 independent vectors.
 - **Preserve transient links immediately:** Before analyzing a social media post or forum thread, save a permanent snapshot to [Wayback Machine](https://web.archive.org/save) or [Archive.today](https://archive.today).
@@ -45,12 +45,12 @@ Here, you will:
 
 ---
 
-## 🏆 Promoting Your Work to the Community Knowledge Base
+## Promoting Your Work to the Community Knowledge Base
 
-When you discover an innovative OSINT technique, build a reusable Python scraper, or complete a standout investigation, you will submit a **Pull Request** to promote your work into the class-wide [JOUR 3318 Knowledge Base](https://github.com/cyowell/jour3318-knowledge-base) and [Course GitBook](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs).
+When you discover an innovative OSINT technique, build a reusable Python scraper, or complete a standout investigation, you will submit a **Pull Request** to promote your work into the class-wide [JOUR 3318 Knowledge Base](https://github.com/cyowell/jour3318-knowledge-base) and Course GitBook.
 
 ---
 
-## 💙 Platform Support
+## Platform Support
 
 Special thanks to **[GitBook](https://www.gitbook.com)** for supporting the **JOUR 3318** learning community through their Community / Academic program and providing the publication platform for our shared investigative knowledge base.

@@ -1,4 +1,4 @@
-# 📋 Active Investigation Log & Chain of Custody
+# Active Investigation Log & Chain of Custody
 
 > **Discipline of Verification:** This document records your active investigations, the evidence gathered, archival snapshots, and triangulation matrices.
 

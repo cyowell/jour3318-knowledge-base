@@ -1,10 +1,10 @@
 # Student Investigative Workbenches
 
 > [!IMPORTANT]
-> ### 🛑 Reading this on GitBook?
-> **GitBook is read-only.** You cannot edit the table or register your repository directly on this website.  
+> **Reading this on GitBook?**  
+> GitBook is read-only. You cannot edit the table or register your repository directly on this website.  
 > To add your repository to the roster, you must **switch to GitHub**:  
-> 👉 **[Click here to open and edit Student Portfolios on GitHub →](https://github.com/cyowell/jour3318-knowledge-base/blob/main/student-portfolios/README.md)**
+> [Click here to open and edit Student Portfolios on GitHub ->](https://github.com/cyowell/jour3318-knowledge-base/blob/main/student-portfolios/README.md)
 
 ---
 
@@ -20,12 +20,12 @@ Each student repository functions as an individual investigative workbench conta
 
 ---
 
-## 🛠️ How to Register Your Workbench on GitHub
+## How to Register Your Workbench on GitHub
 
 1. Create your personal repository using the course template: `jour3318-workbench-[your-github-username]`.
-2. Click the link above to view `student-portfolios/README.md` on GitHub $\rightarrow$ click the **Pencil icon (✏️)** to edit.
+2. Click the link above to view `student-portfolios/README.md` on GitHub -> click the **Pencil icon** to edit.
 3. Add a new row to the roster table below with your name, link to your repository, and topic area.
-4. Click **"Propose changes"** $\rightarrow$ **"Create pull request"**.
+4. Click **"Propose changes"** -> **"Create pull request"**.
 
 ---
 

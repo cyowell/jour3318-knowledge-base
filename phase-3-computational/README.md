@@ -1,10 +1,10 @@
 # Phase 3: Computational Journalism & Data Extraction
 
 > [!IMPORTANT]
-> ### 🛑 Reading this on GitBook?
-> **GitBook is read-only.** You cannot upload Python scripts, edit code, or create files directly on this website.  
+> **Reading this on GitBook?**  
+> GitBook is read-only. You cannot upload Python scripts, edit code, or create files directly on this website.  
 > To complete assignments, upload scripts, or submit work, you must **switch to GitHub**:  
-> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+> [Click here to open the JOUR 3318 GitHub Repository ->](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
@@ -24,7 +24,7 @@ Phase 3 scales journalistic inquiry through programmatic automation. Moving beyo
 
 ---
 
-## 🛠️ How to Contribute Your Discovery on GitHub
+## How to Contribute Your Discovery on GitHub
 
 1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.

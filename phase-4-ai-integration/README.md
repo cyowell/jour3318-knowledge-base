@@ -1,10 +1,10 @@
 # Phase 4: Deep AI Integration & Original Creation
 
 > [!IMPORTANT]
-> ### 🛑 Reading this on GitBook?
-> **GitBook is read-only.** You cannot submit prompt logs, upload analysis files, or create pages directly on this website.  
+> **Reading this on GitBook?**  
+> GitBook is read-only. You cannot submit prompt logs, upload analysis files, or create pages directly on this website.  
 > To complete assignments, add prompt logs, or submit work, you must **switch to GitHub**:  
-> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+> [Click here to open the JOUR 3318 GitHub Repository ->](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
@@ -24,11 +24,11 @@ Phase 4 bridges advanced artificial intelligence systems with investigative repo
 
 ---
 
-## 🛠️ How to Contribute Your Discovery on GitHub
+## How to Contribute Your Discovery on GitHub
 
 1. **Go to GitHub:** Open the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork or Navigate:** Fork the repo to your account, or open your existing fork.
-3. **Create Your File:** Inside `phase-4-ai-integration/` on GitHub, click **Add file** $\rightarrow$ **Create new file**:
+3. **Create Your File:** Inside `phase-4-ai-integration/` on GitHub, click **Add file** -> **Create new file**:
    ```
    phase-4-ai-integration/[ai-technique-or-tool]-[your-name].md
    ```

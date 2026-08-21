@@ -4,17 +4,18 @@
 
 **Course:** JOUR 3318 — Digital Investigative Techniques  
 **Focus:** Open-Source Intelligence (OSINT), Computational Journalism & AI Verification  
-**GitBook Hub:** [digitalinvestigations.gitbook.io/digitalinvestigations-docs](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs)  
+**GitBook Hub:** Course GitBook (Access via your Canvas course link)  
 **GitHub Repository:** [github.com/cyowell/jour3318-knowledge-base](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
-> ⚠️ **Important Reminder for Students:**  
+> [!IMPORTANT]
+> **Important Reminder for Students:**  
 > - **GitBook** is your **reading hub** (read-only reference).
 > - **GitHub** is your **contribution layer** (where you create files, submit work, and open Pull Requests).
 > 
 > Whenever instructions ask you to create a file or open a PR, **you must do so on GitHub**:  
-> 🔗 **[Click here to go to GitHub and contribute →](https://github.com/cyowell/jour3318-knowledge-base)**
+> [Click here to go to GitHub and contribute ->](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
@@ -22,7 +23,7 @@
 
 This is the living, community-driven knowledge base for **JOUR 3318: Digital Investigative Techniques**. Built **by students, for students**, it serves as an open archive of verified OSINT methodologies, Python data-scraping workflows, forensic verification protocols, and critical AI prompt logs discovered throughout the semester.
 
-Approved student contributions submitted via Pull Requests are merged on GitHub and automatically synchronized with this GitBook reference hub.
+Approved student contributions submitted via Pull Requests are merged on GitHub and automatically synchronized with the private course GitBook reference hub.
 
 ---
 
@@ -46,17 +47,17 @@ Contributions follow the editorial review workflow used in professional investig
 
 ```
 Student discovers technique / completes lab
-                   ↓
+                   |
 Documents findings in personal GitHub workbench repo
-                   ↓
-Goes to GitHub → Forks jour3318-knowledge-base & creates new .md file
-                   ↓
+                   |
+Goes to GitHub -> Forks jour3318-knowledge-base & creates new .md file
+                   |
 Submits Pull Request on GitHub with completed Verification Checklist
-                   ↓
+                   |
 Instructor / Peer Review & Editorial Revision
-                   ↓
-Merged into main → Automatically synchronized to GitBook
-                   ↓
+                   |
+Merged into main -> Automatically synchronized to GitBook
+                   |
 Permanent attribution in Git commit history
 ```
 
@@ -64,7 +65,7 @@ Permanent attribution in Git commit history
 
 1. **Open GitHub:** Go to the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).
 2. **Fork This Repository:** Click the **Fork** button in the top right corner to create your own working copy.
-3. **Create Your Contribution File:** Navigate to the relevant phase directory (e.g., `phase-2-verification/`) on GitHub and click **Add file** $\rightarrow$ **Create new file**:
+3. **Create Your Contribution File:** Navigate to the relevant phase directory (e.g., `phase-2-verification/`) on GitHub and click **Add file** -> **Create new file**:
    ```
    phase-2-verification/[technique-or-tool-name]-[your-name].md
    ```
@@ -126,9 +127,9 @@ Copy and paste this markdown template into your submission file on GitHub:
 
 ---
 
-## 💙 Acknowledgments & Platform Support
+## Acknowledgments & Platform Support
 
-Special thanks to **[GitBook](https://www.gitbook.com)** for supporting the **JOUR 3318: Digital Investigative Techniques** course and student investigative projects through their Community / Academic program, powering our interactive course hub at [digitalinvestigations.gitbook.io](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs).
+Special thanks to **[GitBook](https://www.gitbook.com)** for supporting the **JOUR 3318: Digital Investigative Techniques** course and student investigative projects through their Community / Academic program, powering our course knowledge base.
 
 ---
 

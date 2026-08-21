@@ -1,4 +1,4 @@
-# 🤖 AI Prompt & Hallucination Audit Log
+# AI Prompt & Hallucination Audit Log
 
 > **UbD Course Requirement:** In JOUR 3318, you are encouraged to use generative AI (such as the Course Gemini Gem, Google AI Studio, and LLMs) as an investigative teaching assistant. However, **you must maintain editorial oversight**. You are evaluated on your *process of inquiry*, meaning every AI interaction used in your investigations must be documented and critically evaluated below.
 

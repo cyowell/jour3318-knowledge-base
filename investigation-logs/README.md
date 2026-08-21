@@ -1,10 +1,10 @@
 # Investigation Logs
 
 > [!IMPORTANT]
-> ### 🛑 Reading this on GitBook?
-> **GitBook is read-only.** You cannot upload case studies, edit evidence logs, or create files directly on this website.  
+> **Reading this on GitBook?**  
+> GitBook is read-only. You cannot upload case studies, edit evidence logs, or create files directly on this website.  
 > To document your investigations or submit a case study, you must **switch to GitHub**:  
-> 👉 **[Click here to open the JOUR 3318 GitHub Repository →](https://github.com/cyowell/jour3318-knowledge-base)**
+> [Click here to open the JOUR 3318 GitHub Repository ->](https://github.com/cyowell/jour3318-knowledge-base)
 
 ---
 
@@ -34,7 +34,7 @@ Original, multi-vector investigative packages addressing unmet public informatio
 
 ---
 
-## 🛠️ How to Submit an Investigation Log on GitHub
+## How to Submit an Investigation Log on GitHub
 
 1. Document your complete case study in your personal workbench repository.
 2. Fork the [JOUR 3318 Knowledge Base on GitHub](https://github.com/cyowell/jour3318-knowledge-base).

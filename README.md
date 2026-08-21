@@ -126,4 +126,10 @@ Copy and paste this markdown template into your submission file on GitHub:
 
 ---
 
+## 💙 Acknowledgments & Platform Support
+
+Special thanks to **[GitBook](https://www.gitbook.com)** for supporting the **JOUR 3318: Digital Investigative Techniques** course and student investigative projects through their Community / Academic program, powering our interactive course hub at [digitalinvestigations.gitbook.io](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs).
+
+---
+
 *JOUR 3318: Digital Investigative Techniques — Built on the discipline of verification. Maintained by truth-seekers.*

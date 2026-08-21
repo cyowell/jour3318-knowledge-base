@@ -48,3 +48,9 @@ Here, you will:
 ## 🏆 Promoting Your Work to the Community Knowledge Base
 
 When you discover an innovative OSINT technique, build a reusable Python scraper, or complete a standout investigation, you will submit a **Pull Request** to promote your work into the class-wide [JOUR 3318 Knowledge Base](https://github.com/cyowell/jour3318-knowledge-base) and [Course GitBook](https://digitalinvestigations.gitbook.io/digitalinvestigations-docs).
+
+---
+
+## 💙 Platform Support
+
+Special thanks to **[GitBook](https://www.gitbook.com)** for supporting the **JOUR 3318** learning community through their Community / Academic program and providing the publication platform for our shared investigative knowledge base.

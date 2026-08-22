@@ -29,6 +29,7 @@ Here, you will:
 ├── README.md               <- You are here (your profile and portfolio overview)
 ├── investigation-log.md    <- Working log of active investigations and evidence links
 ├── PROMPTS.md              <- Mandatory log of all AI prompts and critical evaluations
+├── reflections/            <- Reflection essays (e.g., Week 8 Digital Detox Journal)
 ├── evidence/               <- Folder for screenshots, metadata extracts, and archival PDFs
 ├── scripts/                <- Python data scraping and cleaning scripts (.py)
 └── notebooks/              <- Interactive Jupyter analysis notebooks (.ipynb)

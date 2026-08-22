@@ -29,12 +29,14 @@ Approved student contributions submitted via Pull Requests are merged on GitHub 
 
 ## Repository Structure
 
-| Folder | Focus & Contents |
+| File / Folder | Focus & Contents |
 | :--- | :--- |
-| [`phase-1-philosophical/`](phase-1-philosophical/README.md) | Epistemology of truth, AI authorship, Frankfurt's *On Bullshit*, Information Disorder taxonomy |
-| [`phase-2-verification/`](phase-2-verification/README.md) | Visual verification, reverse image search, EXIF metadata, chronolocation & geolocation |
-| [`phase-3-computational/`](phase-3-computational/README.md) | Python scripts (BeautifulSoup, Pandas), web scraping, data cleaning, and digital evidence custody |
-| [`phase-4-ai-integration/`](phase-4-ai-integration/README.md) | AI Studio, Google Pinpoint archives, GDELT, SynthID provenance, AI hallucination analysis |
+| [`course-schedule.md`](course-schedule.md) | 15-week course timeline, weekly roadmap, and deliverables |
+| [`phase-1-philosophical/`](phase-1-philosophical/README.md) | Weeks 1-3: Epistemology of truth, AI authorship, Frankfurt's *On Bullshit*, Information Disorder |
+| [`phase-2-verification/`](phase-2-verification/README.md) | Weeks 4-7: Visual verification, reverse image search, EXIF metadata, chronolocation & geolocation |
+| [`activities/week-8-digital-detox.md`](activities/week-8-digital-detox.md) | Week 8: Midterm digital detox and metacognitive reflection journal |
+| [`phase-3-computational/`](phase-3-computational/README.md) | Weeks 9-11: Python scripts (BeautifulSoup, Pandas in Colab), web scraping, evidence hashing |
+| [`phase-4-ai-integration/`](phase-4-ai-integration/README.md) | Weeks 12-14: Google Pinpoint, Google AI Studio, SynthID provenance, AI hallucination audits |
 | [`investigation-logs/`](investigation-logs/README.md) | Formative & summative investigation case studies (Job Vetting, Health Debunking, Video Forensics) |
 | [`prompts-library/`](prompts-library/README.md) | Documented Gemini Gem interactions, prompting logic, bias critiques, and hallucination logs |
 | [`student-portfolios/`](student-portfolios/README.md) | Registry of individual student investigative workbench repositories |
